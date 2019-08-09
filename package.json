@@ -1,10 +1,10 @@
 {
   "name": "cra-tailwind-starter",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "private": false,
   "dependencies": {
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
     "react-scripts": "3.0.1"
   },
   "scripts": {
