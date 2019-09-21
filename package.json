@@ -1,11 +1,11 @@
 {
   "name": "cra-tailwind-starter",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "private": false,
   "dependencies": {
     "react": "16.9.0",
     "react-dom": "16.9.0",
-    "react-scripts": "3.1.1"
+    "react-scripts": "3.1.2"
   },
   "scripts": {
     "start": "yarn run build:css && react-scripts start",
