@@ -11,23 +11,23 @@ Tailwind starter project based on create-react-app
 
 In the project directory, you can run:
 
-### `dev`
+### `yarn dev`
 
 Watches and rebuilds css changes and starts dev server<br>
 
-### `npm start`
+### `yarn start`
 
 Builds css once and starts react-scripts.<br>
 
-### `npm build`
+### `yarn build`
 
 Builds production ready project.<br>
 
-### `build:css`
+### `yarn build:css`
 
 Builds css once.<br>
 
-### `watch:css`
+### `yarn watch:css`
 
 Watches and rebuilds css.<br>
 
