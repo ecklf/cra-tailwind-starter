@@ -1,5 +1,12 @@
+  
 {
-  "extends": ["config:base"],
   "assignees": ["impulse"],
-  "bumpVersion": "patch"
+  "automerge": true,
+  "major": {
+    "automerge": false
+  },
+  "bumpVersion": "patch",
+  "extends": [
+    "config:base"
+  ]
 }
